@@ -14,6 +14,8 @@
 
 ```
 #import "BiPayObject.h"
+
+Build Settings-Enable Bitcode设置为NO
 ```
 **3.币种说明**
 > 参考coin.h文件 例如：0 代表BTC  60 代表ETH
