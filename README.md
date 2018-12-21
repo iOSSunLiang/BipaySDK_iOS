@@ -5,7 +5,7 @@
 > [SDK1.0.3下载地址](https://bitrade.oss-cn-hongkong.aliyuncs.com/bifu_sdk/Bifu_iOS_SDK.zip)
 
 #### 2.将SDK 导入项目
-##### 导入动态库
+##### 导入动态库（该库只支持在真机上运行，不支持模拟器）
 
 >将libbipay.dylib动态库导入项目，设置Target - General - Embedded Binaries 添加libbipay.dylib，如下图
 ![image.png](https://upload-images.jianshu.io/upload_images/6693936-29e8a33c9696d05b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
